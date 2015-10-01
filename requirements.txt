@@ -1,4 +1,5 @@
-ckanserviceprovider==0.0.4
+#ckanserviceprovider==0.0.4
+https://github.com/datawagovau/ckan-service-provider/archive/master.zip
 messytables>=0.12.0
 python-slugify
 Requests
